@@ -1,0 +1,2 @@
+C:\Users\fenbin\Desktop\code\git_1\test\test\.git
+print("test")
